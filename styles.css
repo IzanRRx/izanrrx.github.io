@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+    padding: 40px;
+    background: #5a5d7e;
+    font-family: Arial, sans-serif;
+    height: 100vh;
+    overflow-y: hidden;
+}
+
+.cajas {
+    display: grid;
+    grid-template-columns: 300px 1fr; 
+    gap: 30px;
+    height: 90%;
+}
+
+.caja {
+    background: rgb(214, 214, 214);
+    padding: 20px;
+    border-radius: 12px;
+}
+
+.foto img {
+    width: 92%;
+    border-radius: 18px;
+    border: 10px solid white;
+    height: 95%
+}
+
+.texto {
+    margin-bottom: 50px;
+}
+
+.texto2 {
+    margin-bottom: 20px;
+}
+
+.yo {
+    overflow-y: hidden;
+}
