@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+    padding: 40px;
+    background: #5a5d7e;
+    font-family: Arial, sans-serif;
+    height: 100vh;
+    overflow-y: hidden;
+}
+
+.caja {
+    background: rgb(214, 214, 214);
+    padding: 20px;
+    border-radius: 12px;
+}
+
+.texto {
+    margin-bottom: 50px;
+}
